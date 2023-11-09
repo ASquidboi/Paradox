@@ -79,4 +79,10 @@ We value contributions from the gaming community, whether it's through bug repor
 
 Paradox is released under the [MIT License](LICENSE), allowing you to use, modify, and distribute the game in accordance with the license terms.
 
+## Credits
+
+ChatGPT, for generating this README
+Brackeys, for the FPS raycast shooting code.
+(Ctd later on)
+
 **Paradox** is a labor of passion, and we hope you enjoy playing it as much as we enjoyed creating it. Thank you for being part of this thrilling journey, and happy gaming!
