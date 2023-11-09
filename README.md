@@ -5,4 +5,4 @@ Inspired by the Half-Life series, especially Half-Life:Alyx.
 
 Game is not published anywhere, and is nowhere near completed.
 
-To be completely honest it likely won't ever be finished, given its a beta.
+To be completely honest it likely won't ever be finished, given it is a beta.
