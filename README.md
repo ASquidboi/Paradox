@@ -57,11 +57,11 @@ Paradox offers a blend of thrilling action sequences and cerebral challenges. Pl
 
 Ensure your system meets the following requirements for an optimal gaming experience:
 
-- **OS**: Windows 10 or higher
-- **Processor**: Intel Core i5 or AMD Ryzen 5
+- **OS**: Windows 10 or higher (Anything that isn't a complete potato)
+- **Processor**: Intel Core i5 or AMD Ryzen 5 (I have no clue what these are, so just ignore that)
 - **Memory**: 8 GB RAM
 - **Graphics**: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580
-- **Storage**: 40 GB available space
+- **Storage**: (number goes here) GB available space
 
 ## How to Play
 
