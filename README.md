@@ -1,6 +1,6 @@
 # Paradox: A First-Person Shooter
 
-![Paradox Banner](banner.jpg)
+![Paradox Banner](banner.png)
 
 ## Table of Contents
 
